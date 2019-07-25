@@ -10,6 +10,8 @@ github.com/chunhunghan/file_picker v0.0.5 h1:sSzulCPM2aytE7PwiYl/ejzLvhdDb35QrpQ
 github.com/chunhunghan/file_picker v0.0.5/go.mod h1:hZ74h41hFFQ4pdybLtI0ytd+6yl8Vu7SR8+Wug0Oem4=
 github.com/chunhunghan/file_picker v0.0.7 h1:a8C1W7qF/9Jybl97oTAd3rx5g1oC6YxekN8G8tuRCqg=
 github.com/chunhunghan/file_picker v0.0.7/go.mod h1:l3hUQVq0iEumdAtl364e1DVWTMHk2pKwt/MCZYKd5d0=
+github.com/chunhunghan/file_picker v0.0.9 h1:PFDCMMLJXH9Y+J2Ece6fVV31fuAEKBDW9v9iiFS00pI=
+github.com/chunhunghan/file_picker v0.0.9/go.mod h1:l3hUQVq0iEumdAtl364e1DVWTMHk2pKwt/MCZYKd5d0=
 github.com/chunhunghan/file_picker_multi v0.0.0-20190711063213-38f4f660ab39 h1:G71HtJbcMJSfMdTZE0Y+Sv6psxxvwHnPN+nJdvxLd+I=
 github.com/chunhunghan/file_picker_multi v0.0.0-20190711063213-38f4f660ab39/go.mod h1:WA/5+eYxKBsegKUg+57nSED3chswC86SdthmbnEjfGM=
 github.com/chunhunghan/file_picker_multi v0.0.1 h1:XFW5eCcOIeYyMx5qKWAHVDL/xUmX3NiP7bvrbzMPKd4=
